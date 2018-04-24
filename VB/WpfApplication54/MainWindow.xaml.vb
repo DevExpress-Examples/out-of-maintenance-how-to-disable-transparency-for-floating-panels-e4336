@@ -1,5 +1,4 @@
-﻿Imports Microsoft.VisualBasic
-Imports System
+﻿Imports System
 Imports System.Collections.Generic
 Imports System.Linq
 Imports System.Text
@@ -15,13 +14,14 @@ Imports System.Windows.Shapes
 Imports DevExpress.Xpf.Docking
 
 Namespace WpfApplication54
-	''' <summary>
-	''' Interaction logic for MainWindow.xaml
-	''' </summary>
-	Partial Public Class MainWindow
-		Inherits Window
-		Public Sub New()
-			InitializeComponent()
-		End Sub
-	End Class
+    ''' <summary>
+    ''' Interaction logic for MainWindow.xaml
+    ''' </summary>
+    Partial Public Class MainWindow
+        Inherits Window
+
+        Public Sub New()
+            InitializeComponent()
+        End Sub
+    End Class
 End Namespace
