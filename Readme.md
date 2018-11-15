@@ -1,3 +1,11 @@
+<!-- default file list -->
+*Files to look at*:
+
+* [DisableFloatingPanelTransparencyBehavior.cs](./CS/DisableFloatingPanelTransparencyBehavior/DisableFloatingPanelTransparencyBehavior.cs) (VB: [DisableFloatingPanelTransparencyBehavior.vb](./VB/DisableFloatingPanelTransparencyBehavior/DisableFloatingPanelTransparencyBehavior.vb))
+* [FloatPane.xaml](./CS/DisableFloatingPanelTransparencyBehavior/Themes/FloatPane.xaml) (VB: [FloatPane.xaml](./VB/DisableFloatingPanelTransparencyBehavior/Themes/FloatPane.xaml))
+* [MainWindow.xaml](./CS/WpfApplication54/MainWindow.xaml) (VB: [MainWindow.xaml](./VB/WpfApplication54/MainWindow.xaml))
+* [MainWindow.xaml.cs](./CS/WpfApplication54/MainWindow.xaml.cs) (VB: [MainWindow.xaml](./VB/WpfApplication54/MainWindow.xaml))
+<!-- default file list end -->
 # How to disable transparency for floating panels
 
 
