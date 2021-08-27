@@ -1,3 +1,8 @@
+<!-- default badges list -->
+![](https://img.shields.io/endpoint?url=https://codecentral.devexpress.com/api/v1/VersionRange/128643460/12.1.8%2B)
+[![](https://img.shields.io/badge/Open_in_DevExpress_Support_Center-FF7200?style=flat-square&logo=DevExpress&logoColor=white)](https://supportcenter.devexpress.com/ticket/details/E4336)
+[![](https://img.shields.io/badge/📖_How_to_use_DevExpress_Examples-e9f6fc?style=flat-square)](https://docs.devexpress.com/GeneralInformation/403183)
+<!-- default badges end -->
 # [Obsolete] How to disable transparency for floating panels
 
 Please set the [DockLayoutManager.EnableWin32Compatibility](https://docs.devexpress.com/WPF/DevExpress.Xpf.Docking.DockLayoutManager.EnableWin32Compatibility) property to `true` to disable transparency in floating panels and make it possible to display Windows Forms controls.
